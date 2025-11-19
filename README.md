@@ -1,6 +1,6 @@
 <div id="header" align="center">
-  <img src="https://user-images.githubusercontent.com/177365957/495415969-1570b88c-9925-4bc6-9b50-c355da8cdc81.gif
-" width="300"/>
+  <img src="https://raw.githubusercontent.com/AndresAndyRC/AndresAndyRC/main/images/gif_profile.gif" width="300"/>
+
   
   <div id="badges">
     <a href="https://www.linkedin.com/in/andresfrodriguezc21/" target="_blank">
